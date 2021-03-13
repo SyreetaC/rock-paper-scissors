@@ -1,5 +1,11 @@
 // declare global data
+let userWins = 0;
+let userLoses = 0;
+let userTies = 0;
 
+//use let because the values are going to change
+let playerChoice;
+let computerChoice;
 // prompt player for choice
 
 //validate player choice
